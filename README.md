@@ -1,18 +1,5 @@
-First of all, thank you for showing interest to become a part of NCQ. We wish you best of luck for the test. Please read the entire document carefully before you start writing code.
 
-# How to send your code?
-
-* Fork the Gitlab repository into your own **private** personal repository in **Gitlab**
-* Push your code into a new branch with the following name:
-  * firstname_lastname
-  * Please use snake case format
-* Invite oumayma.ltaief@ncq-devstudio.com as **Maintainer**:
-  * Open the following menu menu: **Project information > Members**
-  * Click on **Invite members** button
-  * Add oumayma.ltaief@ncq-devstudio.com email and set role as **Maintainer**
-* Create a new pull request and set **@oumayma.ltaief1** as Reviewer
-
-# Coding Assignment
+# Coding 
 We want you to create a React application that replies to the following notes. You should use:
 - React v17
 - React hooks (No class components)
@@ -62,8 +49,4 @@ Example: If an employee has 76 as score then 7 out of 10 stars should be display
   - List of projects that he/she occupies
 - All these data should be displayed via the [card](https://www.primefaces.org/primereact/card) based custom component.
 
-# Assessment Criteria
-- Code quality of the React Code.
-- Code quality of the HTML and CSS.
-- Unit tests code coverage.
-- Look and feel of the statistics area and pages.
+
